@@ -4,26 +4,26 @@ O Gerador de Diálogos é uma aplicação que permite criar e visualizar diálog
 
 Estrutura do Projeto <br>
 
-main.py: Script principal que gerencia a lógica da aplicação.
-static/: Diretório que contém os arquivos estáticos utilizados pela aplicação.
-script.js: Script JavaScript para funcionalidades interativas.
-style.css: Arquivo CSS responsável pela estilização da interface.
-audio/inicio.mp3: Arquivo de áudio utilizado na aplicação.
-img/: Diretório com diversas imagens e ícones utilizados na interface.
-templates/: Diretório que contém o arquivo HTML.
-index.html: Página principal da aplicação.
-Funcionalidades
+main.py: Script principal que gerencia a lógica da aplicação.<br>
+static/: Diretório que contém os arquivos estáticos utilizados pela aplicação.<br>
+script.js: Script JavaScript para funcionalidades interativas.<br>
+style.css: Arquivo CSS responsável pela estilização da interface.<br>
+audio/inicio.mp3: Arquivo de áudio utilizado na aplicação.<br>
+img/: Diretório com diversas imagens e ícones utilizados na interface.<br>
+templates/: Diretório que contém o arquivo HTML.<br>
+index.html: Página principal da aplicação.<br>
+Funcionalidades<br>
 Geração de diálogos em diferentes gêneros.
 Interface interativa com suporte a imagens e áudio.
 Layout responsivo utilizando HTML, CSS e JavaScript.
-Requisitos
+Requisitos<br>
 Python 3.x
 Flask (ou outro framework web, se aplicável)
 Navegador web atualizado
 Como Executar
 Clone este repositório:
 bash
-Copiar código
+Copiar código<br>
 git clone https://github.com/seu-usuario/gerador-de-dialogos.git
 Navegue até o diretório do projeto:
 bash
