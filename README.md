@@ -1,8 +1,9 @@
-Gerador de Diálogos
-Descrição
+Gerador de Diálogos <br>
+
 O Gerador de Diálogos é uma aplicação que permite criar e visualizar diálogos interativos. Com uma interface amigável, os usuários podem gerar diálogos em diferentes gêneros utilizando áudio e imagens para uma experiência imersiva.
 
-Estrutura do Projeto
+Estrutura do Projeto <br>
+
 main.py: Script principal que gerencia a lógica da aplicação.
 static/: Diretório que contém os arquivos estáticos utilizados pela aplicação.
 script.js: Script JavaScript para funcionalidades interativas.
